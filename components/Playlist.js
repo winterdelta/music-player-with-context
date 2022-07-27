@@ -11,15 +11,15 @@ export default function Playlist() {
           {[
             {
               trackName: 'track1',
-              src: 'http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3',
+              src: 'http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Kangaroo_MusiQue_-_The_Neverwritten_Role_Playing_Game.mp3',
             },
             {
               trackName: 'track2',
-              src: 'http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3',
+              src: 'http://codeskulptor-demos.commondatastorage.googleapis.com/GalaxyInvaders/theme_01.mp3',
             },
             {
               trackName: 'track3',
-              src: 'https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3',
+              src: 'http://commondatastorage.googleapis.com/codeskulptor-demos/DDR_assets/Sevish_-__nbsp_.mp3',
             },
           ].map((d) => (
             <td>
